@@ -1,0 +1,50 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.maindiv
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-repeat: round;
+    border: solid 9px peachpuff;
+    box-shadow: inset 0px 0px 90px black;
+  
+}
+
+.addformdiv
+{
+    width: 30%;
+    /* background-color: blueviolet; */
+
+}
+.todolistdiv
+{
+    width: 30%;
+    /* background-color: brown; */
+}
+.updateformdiv
+{
+    width: 30%;
+    /* background-color: crimson; */
+}
+.addformtitle
+{
+    text-align: left;
+    font-size: 2rem;
+    font-weight: 600;
+
+}
+/* .addbutton
+{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 30%;
+    border-style: solid;
+    border-color: black;
+    margin-left: 40%;
+    margin-top: 2%;
+    
+} */
